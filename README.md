@@ -32,13 +32,13 @@ flowchart TD
 
 | # | Repo | What it covers | Status |
 |---|------|---------------|--------|
-| 01 | [fpga-01-foundations](https://github.com/YOUR_USERNAME/fpga-01-foundations) | Digital logic · Boolean algebra · FSMs · nand2tetris | 🔲 |
-| 02 | [fpga-02-hdl-sv](https://github.com/YOUR_USERNAME/fpga-02-hdl-sv) | SystemVerilog fundamentals · HDLBits exercises · UART | 🔲 |
-| 03 | [fpga-03-peripherals](https://github.com/YOUR_USERNAME/fpga-03-peripherals) | SPI · I2C · FIFO · AXI-Stream · VGA · Pong | 🔲 |
-| 04 | [fpga-04-riscv-cpu](https://github.com/YOUR_USERNAME/fpga-04-riscv-cpu) ⭐ | Pipelined RV32I RISC-V core · riscv-tests | 🔲 |
-| 05 | [fpga-05-soc](https://github.com/YOUR_USERNAME/fpga-05-soc) | SoC integration · LiteX · Running C on your own CPU | 🔲 |
-| 06 | [fpga-06-verification](https://github.com/YOUR_USERNAME/fpga-06-verification) | cocotb · SymbiYosys formal · Testbench patterns | 🔲 |
-| 07 | [fpga-07-research](https://github.com/YOUR_USERNAME/fpga-07-research) | Paper reproductions · Capstone · Writeups | 🔲 |
+| 01 | [fpga-01-foundations](https://github.com/umairahmadh/fpga-foundations) | Digital logic · Boolean algebra · FSMs · nand2tetris | 🔲 |
+| 02 | [fpga-02-hdl-sv](https://github.com/umairahmadh/fpga-hdl-sv) | SystemVerilog fundamentals · HDLBits exercises · UART | 🔲 |
+| 03 | [fpga-03-peripherals](https://github.com/umairahmadh/fpga-peripherals) | SPI · I2C · FIFO · AXI-Stream · VGA · Pong | 🔲 |
+| 04 | [fpga-04-riscv-cpu](https://github.com/umairahmadh/fpga-riscv-cpu) ⭐ | Pipelined RV32I RISC-V core · riscv-tests | 🔲 |
+| 05 | [fpga-05-soc](https://github.com/umairahmadh/fpga-soc) | SoC integration · LiteX · Running C on your own CPU | 🔲 |
+| 06 | [fpga-06-verification](https://github.com/umairahmadh/fpga-verification) | cocotb · SymbiYosys formal · Testbench patterns | 🔲 |
+| 07 | [fpga-07-research](https://github.com/umairahmadh/fpga-research) | Paper reproductions · Capstone · Writeups | 🔲 |
 
 Status: 🔲 Not started · 🟡 In progress · ✅ Complete
 
@@ -89,7 +89,7 @@ If you're learning too, feel free to fork any repo and use it as a starting stru
 
 | Date | Milestone |
 |------|-----------|
-| — | Started the journey |
+| 30.05.2025 | Started the journey |
 
 ---
 
